@@ -12,7 +12,7 @@ npm run dev
 npm run build
 ```
 
-### Fresh up your project dependencies
+### Fresh up the project dependencies
 ```bash
 npm install
 ```
