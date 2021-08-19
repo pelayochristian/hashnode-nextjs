@@ -12,6 +12,11 @@ npm run dev
 npm run build
 ```
 
+### Fresh up your project dependencies
+```bash
+npm install
+```
+
 ### Run in production:
 ```bash
 npm start
