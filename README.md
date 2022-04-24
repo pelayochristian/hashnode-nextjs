@@ -2,7 +2,7 @@
 Integrate Hashnode to NextJS Project
 ### Deployment Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/dd18a800-f6b1-41d1-ae14-53320c6cc30e/deploy-status)](https://app.netlify.com/sites/brilliant-duckanoo-b9fbbb/deploys)
 
-![Alt text](hashnode-nextjs-page.png?raw=true "Christian Pelayo Site")
+![Alt text](hashnode-nextjs-page.png?raw=true "Hasnode NextJS Sample")
 
 ### First, run the development server:
 ```bash
